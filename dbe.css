@@ -1,0 +1,101 @@
+.body{
+    font-family: 'Playfair Display', serif;
+}
+.container2{
+    margin: 0px;
+    background-color: whitesmoke;
+}
+.header{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 150px;
+    width: 50%;
+}
+#navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#snowl{
+    height: 70px;
+    width: 150px;
+    margin: 0px;
+    margin-left: 100px;
+}
+img{
+    height: 100px;
+    width: 100px;
+    margin-left: 100px;
+}
+.branding{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 100px;
+    background-color: whitesmoke;
+}
+.branding p{
+    color: lightgrey;
+    font-size: 13px;
+    text-align: center;
+}
+.branding h1{
+    font-size: 50px;
+}
+#paysage{
+    width: 1445px;
+    height: 250px;
+    margin: 0px;
+}
+#blacky{
+    height: 780px;
+    width: 480px;
+    margin: 0px;
+}
+#sacb{
+    height: 390px;
+    width: 490px;
+    margin: 0px;
+}
+#bok{
+    height: 390px;
+    width: 490px;
+    margin: 0px;
+}
+#shit{
+    height: 390px;
+    width: 490px;
+    margin: 0px;
+}
+#sacf{
+    height: 390px;
+    width: 490px;
+    margin: 0px;
+}
+#pok{
+    height: 780px;
+    width: 495px;
+    margin: 0px;
+}
+#whity{
+    height: 390px;
+    width: 480px;
+    margin: 0px;
+}
+#vils{
+    height: 390px;
+    width: 480px;
+    margin: 0px;
+}
+#tire{
+    height: 390px;
+    width: 465px;
+    margin: 0px;
+}
+#losange{
+    height: 390px;
+    width: 465px;
+    margin: 0px;
+}

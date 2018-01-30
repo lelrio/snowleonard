@@ -1,0 +1,73 @@
+.body{
+    background-color: whitesmoke;
+    font-family: 'Playfair Display', serif;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+    width: 100%;
+    height: 100%;
+}
+.jumbotron-fluid{
+    margin-top: 50px;
+}
+.containerjumbo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#jumbo{
+    background-color: #e4e5e6;
+    width: 1300px;
+    border-radius: 10px;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+}
+.ipad{
+    margin-top: 100px;
+    height: 500px;
+    width: 700px;
+}
+.txtmid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.txtbot{
+    height: 250px;
+    margin-left: 120px;
+    display: flex;
+    align-items: flex-end;
+}
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    max-height: 100%;
+    max-width: 60%;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin: 50px;
+}
+.buttons a{
+    color: white;
+}
+.button1{
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.button3{
+    margin-top: 20px;
+    margin-left: 20px;
+}

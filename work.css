@@ -1,0 +1,162 @@
+.body{
+    font-family: 'Playfair Display', serif;
+}
+@-webkit-keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+.fadeIn {
+    -webkit-animation-name: fadeIn;
+    animation-name: fadeIn;
+}
+@keyframes pulse {
+    from {
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1);
+    }
+
+    50% {
+        -webkit-transform: scale3d(1.05, 1.05, 1.05);
+        transform: scale3d(1.05, 1.05, 1.05);
+    }
+
+    to {
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1);
+    }
+}
+
+.pulse {
+    -webkit-animation-name: pulse;
+    animation-name: pulse;
+}
+.col-4:hover{
+    animation: pulse 2s;
+}
+.col-6:hover{
+    animation: fadeIn 2s;
+}
+.row.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}
+.row.no-gutters > [class^="col-"],
+.row.no-gutters > [class*=" col-"] {
+    padding-right: 0;
+    padding-left: 0;
+}
+.container2{
+    margin: 0px;
+    background-color: whitesmoke;
+}
+.header{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 150px;
+    width: 50%;
+}
+#navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#snowl{
+    height: 70px;
+    width: 150px;
+    margin-right: 300px;
+}
+img{
+    height: 100px;
+    width: 100px;
+    margin-left: 100px;
+}
+#table{
+    width:100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.txtcol6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: lightgrey;
+    height: 100%;
+    width: 100%;
+}
+.start{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.col-6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px;
+}
+#blabla{
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+}
+#blibli{
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+}
+#blublu{
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+}
+#bleble{
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+}
+#bltblt{
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+}
+#bloblo{
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+}
+#blqblq{
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+}
+#blwblw{
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+}
+#blnbln{
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+}

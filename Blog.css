@@ -1,0 +1,107 @@
+.body{
+    font-family: 'Playfair Display', serif;
+}
+.container2{
+    margin: 0px;
+    background-color: whitesmoke;
+}
+.header{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 150px;
+    width: 50%;
+}
+#navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#snowl{
+    height: 70px;
+    width: 150px;
+    margin: 0px;
+    margin-left: 100px;
+}
+img{
+    height: 100px;
+    width: 100px;
+    margin-left: 100px;
+}
+.txtuseless2{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    background-color: whitesmoke;
+    padding-left: 100px;
+    padding-top: 80px;
+    padding-right: 60px;
+    padding-bottom: 80px;
+}
+.txtuseless2 h1{
+    margin-bottom: 20px;
+}
+.txtuseless2 p{
+    color: grey;
+}
+#b7{
+    margin: 0px;
+    width: 380px;
+    height: 300px;
+}
+#t7{
+    margin: 0px;
+    width: 380px;
+    height: 300px;
+}
+#sb7{
+    margin: 0px;
+    width: 380px;
+    height: 300px;
+}
+#sa7{
+    margin: 0px;
+    width: 380px;
+    height: 300px;
+}
+#bl7{
+    margin: 0px;
+    width: 380px;
+    height: 300px;
+}
+#sab7{
+    margin: 0px;
+    width: 380px;
+    height: 300px;
+}
+#s7{
+    margin: 0px;
+    width: 380px;
+    height: 300px;
+}
+#sab27{
+    margin: 0px;
+    width: 380px;
+    height: 300px;
+}
+#p7{
+    margin: 0px;
+    width: 380px;
+    height: 300px;
+}
+#i7{
+    margin: 0px;
+    width: 380px;
+    height: 300px;
+}
+#r7{
+    margin: 0px;
+    width: 380px;
+    height: 300px;
+}
+#v7{
+    margin: 0px;
+    width: 380px;
+    height: 300px;
+}

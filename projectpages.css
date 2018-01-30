@@ -1,0 +1,36 @@
+.body{
+    font-family: 'Playfair Display', serif;
+}
+.txtprojet{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: whitesmoke;
+    height: 100px;
+    padding-left: 100px;
+}
+#l3{
+    height: 400px;
+    width: 450px;
+    margin: 0px;
+}
+#m3{
+    height: 400px;
+    width: 450px;
+    margin: 0px;
+}
+#r3{
+    height: 400px;
+    width: 500px;
+    margin: 0px;
+}
+.containerrox{
+    background-color: whitesmoke;
+    height: 600px;
+}
+.txtand{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}

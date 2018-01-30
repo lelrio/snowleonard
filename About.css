@@ -1,0 +1,80 @@
+.body{
+    background-color: whitesmoke;
+    font-family: 'Playfair Display', serif;
+}
+.container2{
+    margin: 0px;
+}
+.header{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 150px;
+    width: 50%;
+}
+#navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#snowl{
+    height: 70px;
+    width: 150px;
+    margin: 0px;
+    margin-left: 100px;
+}
+img{
+    height: 100px;
+    width: 100px;
+    margin-left: 100px;
+}
+.row img{
+    margin-left: 0px;
+    margin-top: 20px;
+}
+.txtuseless{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.txtuseless img{
+    margin-left: 0px;
+}
+#sac{
+    width: 100%;
+    height: 253px;
+}
+#poche{
+    width: 100%;
+    height: 253px;
+}
+#iphone{
+    width: 100%;
+    height: 530px;
+}
+#shirt{
+    width: 100%;
+    height: 530px;
+}
+#vinyle{
+    width: 100%;
+    height: 253px;
+}
+#sacblanc{
+    width: 100%;
+    height: 253px;
+}
+#livre{
+    width: 100%;
+    height: 253px;
+}
+#shirt2{
+    width: 100%;
+    height: 530px;
+}
+#livre2{
+    width: 100%;
+    height: 253px;
+}

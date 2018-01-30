@@ -1,0 +1,53 @@
+.body{
+    font-family: 'Playfair Display', serif;
+}
+.porfolio{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: whitesmoke;
+    height: 100px;
+    padding-left: 100px;
+}
+.containerrow{
+    background-color: whitesmoke;
+}
+#l1{
+    height: 335px;
+    width: 435px;
+    margin: 0px;
+    margin-top: 30px;
+}
+#m1{
+    height: 335px;
+    width: 455px;
+    margin: 0px;
+    margin-top: 30px;
+}
+#r1{
+    height: 335px;
+    width: 460px;
+    margin: 0px;
+    margin-top: 30px;
+}
+#l2{
+    height: 335px;
+    width: 435px;
+    margin: 0px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+#m2{
+    height: 335px;
+    width: 435px;
+    margin: 0px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+#r2{
+    height: 335px;
+    width: 460px;
+    margin: 0px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
